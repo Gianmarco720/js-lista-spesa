@@ -1,0 +1,22 @@
+body {
+    background-color: #BF94E4;
+}
+
+h1 {
+    color: gold;
+}
+
+.my_container {
+    width: 40%;
+    margin: auto;
+    background-color: antiquewhite;
+    border-radius: 1rem;
+    border: 10px solid #966F33;
+}
+
+li {
+    width: 85%;
+    border-bottom: 1px solid lightgray;
+    padding: 0.25rem 0;
+    font-style: italic;
+}
